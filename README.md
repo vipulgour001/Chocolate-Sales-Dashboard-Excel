@@ -1,6 +1,7 @@
 ## 📊 Dashboard
 
-![alt text](<Chocolate Sales Dashboard-1.png>)
+<img width="1502" height="697" alt="Chocolate Sales Dashboard" src="https://github.com/user-attachments/assets/a0ff84e2-a727-4b0f-a918-d18768fb3cda" />
+
 
 ---
 
