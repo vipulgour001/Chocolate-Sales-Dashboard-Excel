@@ -13,24 +13,6 @@ The project follows the **STAR (Situation → Task → Action → Result)** appr
 
 ---
 
-## 📁 Project Structure
-
-```text
-Chocolate-Sales-Dashboard/
-│
-├── 📊 Dashboard/
-│   └── Chocolate_Sales_Dashboard.xlsx
-│
-├── 📁 Dataset/
-│   └── chocolate_sales_data.xlsx
-│
-├── 🖼️ Images/
-│   └── chocolate-sales-dashboard.png
-│
-└── 📄 README.md
-```
-
-
 ## 📌 Project Overview
 
 The goal of this project was to transform raw chocolate sales data into an interactive dashboard that makes sales, profitability, product performance, and regional trends easier to understand.
@@ -162,9 +144,26 @@ Based on the analysis, I identified the following opportunities:
 
 ---
 
-
 ## 🎯 Key Takeaway
 
 This project helped me practice turning raw sales data into a **clear, interactive business dashboard** and, more importantly, using the analysis to identify **what is driving sales, where profitability is strongest, and where the business can improve**.
 
 ---
+
+## 📁 Project Structure
+
+```text
+Chocolate-Sales-Dashboard/
+│
+├── 📊 Dashboard/
+│   └── Chocolate_Sales_Dashboard.xlsx
+│
+├── 📁 Dataset/
+│   └── chocolate_sales_data.xlsx
+│
+├── 🖼️ Images/
+│   └── chocolate-sales-dashboard.png
+│
+└── 📄 README.md
+```
+
