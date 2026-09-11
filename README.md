@@ -1,9 +1,7 @@
 ## 📊 Dashboard
 
-> Add your dashboard screenshot here.
-
 ```text
-![Chocolate Sales Dashboard](images/chocolate-sales-dashboard.png)
+<img width="1502" height="697" alt="Chocolate Sales Dashboard" src="https://github.com/user-attachments/assets/3d0b5359-b847-456f-897c-0befef509308" />
 ```
 
 ---
